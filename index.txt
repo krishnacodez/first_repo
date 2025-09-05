@@ -1,1 +1,4 @@
-this is my first file in the repostiory
+this is my first file in the repository
+
+editing this file locally after cloning it successfully
+
